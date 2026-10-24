@@ -13,3 +13,9 @@
 把对应技能目录复制到你的技能目录（如 Doubao 工作技能的 `workspace/.user_skills/`、Claude Code 的 `.claude/skills/`、Codex 的 `.codex/skills/`）即可。
 
 详见 `skills/maestro-cn/SKILL.md`。
+
+## 下载方式
+- 一键打包下载：[main.zip](https://github.com/chinaretaildesign/skill-public-app/archive/refs/heads/main.zip)
+- Git 克隆（HTTPS，无需密钥）
+```bash
+git clone https://github.com/chinaretaildesign/skill-public-app.git
